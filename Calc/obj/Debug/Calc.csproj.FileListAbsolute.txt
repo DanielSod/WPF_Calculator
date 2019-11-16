@@ -1,0 +1,43 @@
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\sohail\Calculator-master\Calc\obj\Debug\MainWindow.g.cs
+C:\sohail\Calculator-master\Calc\obj\Debug\App.g.cs
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc_MarkupCompile.cache
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc_MarkupCompile.lref
+C:\sohail\Calculator-master\Calc\bin\Debug\Calc.exe.config
+C:\sohail\Calculator-master\Calc\bin\Debug\Calc.exe
+C:\sohail\Calculator-master\Calc\bin\Debug\Calc.pdb
+C:\sohail\Calculator-master\Calc\obj\Debug\MainWindow.baml
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.g.resources
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.exe
+C:\sohail\Calculator-master\Calc\obj\Debug\Calc.pdb
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\bin\Debug\Calc.exe.config
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\bin\Debug\Calc.exe
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\bin\Debug\Calc.pdb
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\MainWindow.g.cs
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\App.g.cs
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc_MarkupCompile.cache
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc_MarkupCompile.lref
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\MainWindow.baml
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc.g.resources
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc.exe
+C:\Users\Sohail Hasware\source\repos\Calculator-master\Calc\obj\Debug\Calc.pdb
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\bin\Debug\Calc.exe
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\App.g.cs
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc_MarkupCompile.cache
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc_MarkupCompile.lref
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\MainWindow.baml
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.g.resources
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.exe
+C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.pdb
