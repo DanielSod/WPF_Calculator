@@ -41,3 +41,25 @@ C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Cal
 C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
 C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.exe
 C:\Users\danie\Documents\Daniels program\WPF_Calc\Daniel_Calc\Calc\obj\Debug\Calc.pdb
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Calc.exe.config
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Calc.exe
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Calc.pdb
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.csprojAssemblyReference.cache
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\MainWindow.g.cs
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\App.g.cs
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc_MarkupCompile.cache
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc_MarkupCompile.lref
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\MainWindow.baml
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.g.resources
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.csproj.GenerateResource.cache
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.exe
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.pdb
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Caliburn.Micro.dll
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Caliburn.Micro.Platform.Core.dll
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Caliburn.Micro.Platform.dll
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\System.Windows.Interactivity.dll
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Caliburn.Micro.xml
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Caliburn.Micro.Platform.xml
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\bin\Debug\Caliburn.Micro.Platform.Core.xml
+D:\#Programmering\#Only_for_GitHub\#WPF\02 - Daniel Calc\WPF_Calculator\Calc\obj\Debug\Calc.csproj.CopyComplete

@@ -34,8 +34,8 @@ namespace Calculator
         bool divideButtonClicked = false;
         bool btnPowClicked = false;
         bool btnProcentClicked = false;
-
-
+        bool btnSqrtClicked = false;
+        public List _history = new List();
 
 
         private void btnEquals_Click(object sender, RoutedEventArgs e)
@@ -78,9 +78,23 @@ namespace Calculator
 
             else if (btnProcentClicked == true)
             {
-
+                total2 = total1 / 100 * double.Parse(textBox_Result.Text);
+                labelCurrentOperation.Content = total1 + "%" + double.Parse(textBox_Result.Text);
+                textBox_Result.Text = total2.ToString();
+                total1 = 0;
             }
+            else if (btnSqrtClicked == true)
+            {
+                total1 = 0;
+            }
+            
+            historyList.Text = labelCurrentOperation.Content + "=" + total2.ToString() + "\n";
+            //string his1 = historyList.Text;
+            
+            
         }
+
+        
 
         #region Clering operations
         private void btnBackSpace_Click(object sender, RoutedEventArgs e)
@@ -196,6 +210,7 @@ namespace Calculator
             divideButtonClicked = false;
             btnPowClicked = false;
             btnProcentClicked = false;
+            btnSqrtClicked = false;
         }
 
         private void btnMinus_Click(object sender, RoutedEventArgs e)
@@ -210,6 +225,7 @@ namespace Calculator
             divideButtonClicked = false;
             btnPowClicked = false;
             btnProcentClicked = false;
+            btnSqrtClicked = false;
         }
 
         private void btnTimes_Click(object sender, RoutedEventArgs e)
@@ -224,6 +240,7 @@ namespace Calculator
             divideButtonClicked = false;
             btnPowClicked = false;
             btnProcentClicked = false;
+            btnSqrtClicked = false;
         }
 
         private void btnDivide_Click(object sender, RoutedEventArgs e)
@@ -238,6 +255,7 @@ namespace Calculator
             divideButtonClicked = true;
             btnPowClicked = false;
             btnProcentClicked = false;
+            btnSqrtClicked = false;
         }
         #endregion
 
@@ -255,14 +273,15 @@ namespace Calculator
             divideButtonClicked = false;
             btnPowClicked = true;
             btnProcentClicked = false;
-
+            btnSqrtClicked = false;
 
         }
 
         private void btnProcent_Click(object sender, RoutedEventArgs e)
         {
             total1 += double.Parse(textBox_Result.Text);
-
+            labelCurrentOperation.Content = textBox_Result.Text + "%";
+            textBox_Result.Text = "";
 
             plusButtonClicked = false;
             minusButtonClicked = false;
@@ -270,10 +289,35 @@ namespace Calculator
             divideButtonClicked = false;
             btnPowClicked = false;
             btnProcentClicked = true;
+            btnSqrtClicked = false;
         }
+        private void btnSqrt_Click(object sender, RoutedEventArgs e)
+        {
+            total1 += double.Parse(textBox_Result.Text);
+            total2 = Math.Sqrt(double.Parse(textBox_Result.Text));
+
+            labelCurrentOperation.Content = textBox_Result.Text + "√";
+            textBox_Result.Text = total2.ToString();
+
+            plusButtonClicked = false;
+            minusButtonClicked = false;
+            multiplyButtonClicked = false;
+            divideButtonClicked = false;
+            btnPowClicked = false;
+            btnProcentClicked = false;
+            btnSqrtClicked = true;
+        }
+
 
         #endregion
 
+        private void historyList_TextChanged(object sender, TextChangedEventArgs e)
+        {
+        //    ArrayList _history
+        //    do
+        //    {
 
+        //    }
+        }
     }
 }

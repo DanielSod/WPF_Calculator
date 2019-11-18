@@ -5,17 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
-        Title="Calculator" Height="430" Width="350">
+        Title="Calculator" Height="430" Width="500">
 
-
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Background" Value="DarkOrange"></Setter>
+            
+            
+        </Style>
+        
+    </Window.Resources>
+    
     <Grid Background="LightGray">
         
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
-            <ColumnDefinition/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="60"/>
+            <ColumnDefinition Width="auto"/>
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition/>
@@ -26,6 +35,9 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
+
+      
+
         <!--Number Buttons-->
         <Button x:Name="btn7" Grid.Row="3" Grid.Column="0" FontSize="35" Click="btn7_Click">7</Button>
         <Button x:Name="btn8" Grid.Row="3" Grid.Column="1" FontSize="35" Click="btn8_Click">8</Button>
@@ -53,7 +65,8 @@
         <!--Advanced math operation buttons-->
         <Button x:Name="btnProcent" Grid.Row="3" Grid.Column="4" FontSize="40" Click="btnProcent_Click">%</Button>
         <Button x:Name="btnPow" Grid.Row="4" Grid.Column="4" FontSize="40" Click="btnPow_Click">^</Button>
-
+        <Button x:Name="btnSqrt" Grid.Row="5" Grid.Column="4" FontSize="40" Click="btnSqrt_Click">√</Button>
+        
         <!--Clear Buttons-->
         <Button x:Name="btnClearEntry" Grid.Row="2" Grid.Column="0" FontSize="35" Click="btnClearEntry_Click">CE</Button>
         <Button x:Name="btnClear" Grid.Row="2" Grid.Column="1" FontSize="35" Click="btnClear_Click">C</Button>
@@ -67,7 +80,16 @@
                  " Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4" Background="LightGray" Foreground="Green">0</TextBox>
 
         <!--Result Label-->
-        <Label x:Name="labelCurrentOperation" Visibility="Visible" HorizontalContentAlignment="Right" VerticalAlignment="Bottom" FontSize="30" BorderThickness="0
-                 " Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Background="LightGray" Foreground="Yellow"></Label>
+        <Label x:Name="labelCurrentOperation" Visibility="Visible" HorizontalContentAlignment="Right" VerticalAlignment="Bottom" FontSize="30" BorderThickness="0"
+                  Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" Background="LightGray" Foreground="Yellow"></Label>
+
+        <!--Display history-->
+        <TextBox x:Name="historyList"  Margin="10" Width="150" Grid.Column="5" Grid.Row="2" Grid.RowSpan="4" FontSize="20" TextChanged="historyList_TextChanged" />
+        
+        <TextBox Margin="10" Width="150" Grid.Column="5" Grid.Row="1" FontSize="25" 
+                 TextAlignment="Center" Text="History" />
+
     </Grid>
+    
+    
 </Window>
